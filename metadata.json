@@ -1,0 +1,6 @@
+{
+  "name": "DroidSandbox",
+  "description": "Android Multi-Account and Sandbox Virtual Execution Environment Manager",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
